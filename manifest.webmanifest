@@ -5,12 +5,12 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFHd6H9upinIewz2AVAzW0vlCbgHavIk3_ORuQh77FeaxOMNIq8sVxm8aXnsZ3oI_pMn4kfzFYrAQo0KGDGlRh0rCpYKapQJ16y6gxddCfVXfUQqoNPclg1OPXNudpBt8g7yMfPFiyzS0P-OseWMJHCiW_ayUPZkvYEELjHjpJDdf3A3-k73mnPma7/s640/photo_2022-03-20_17-41-15.jpg",
+      "src": "https://codingtuto.github.io/PWA-for-Blogger/icon.png",
       "sizes": "192x192",
       "type": "image/png"
     }
   ],
   "name": "Coding Team",
   "short_name": "Coding Team",
-  "start_url": "https://team-codeur.blogspot.com/"
+  "start_url": "/"
 }
