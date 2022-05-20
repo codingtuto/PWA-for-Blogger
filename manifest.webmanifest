@@ -61,7 +61,7 @@ addEventListener("fetch", event => {
       }
     ],
     serviceworker: {
-      src: "/sw.js"
+      src: "https://github.com/codingtuto/PWA-for-Blogger/blob/main/sw.js"
     }
   }
 
