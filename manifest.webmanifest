@@ -5,10 +5,15 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "https://codingtuto.github.io/PWA-for-Blogger/icon.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeU49v0B8JMgLlpvIcPQy0Dmt0y1G52iR-kVk_WSngNiSKahYKXhErMFEdISoF0Hut2I1Qe6a2TzXnCbErPg_fQhl-gMOPD1qEQQd_Nz9bGPNdm6tskFY3anKG7vzwLE2mu6jtkfwgQ4BiuzUZMsTOxW6d-vbCGBOr9RdRA26ePCcWHx3nQcemllX6/s1600/icon192.jpg",
       "sizes": "192x192",
-      "type": "image/png"
-    }
+      "type": "image/jpg"
+    },
+    {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0p-crpA4FJ5uSGFyRqiPRJ6tgtHpPM6DWKQq_C_VI2pvFJhV1Qo-pPl-CZleqbwblHgS4oXDjExzgG-UcE2ybBaHL8EjRALBYhvQ8_ENr2h1onipsLN2zoBvsnStm14u_ExjcEtNferi5N-KNEQgwIMfp43vLKLlFd6_ztMP6qDnFPWL2cwNjcR3G/s1600/icon512.jpg",
+            "sizes": "512x512",
+            "type": "image/jpg"
+        }
   ],
   "name": "Coding Team",
   "short_name": "Coding Team",
